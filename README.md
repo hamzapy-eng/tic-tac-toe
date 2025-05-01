@@ -92,6 +92,6 @@ This project is licensed under the MIT License.
 
 ## 🌐 Author
 
-Made with 💻 and ☕ by [Your Name]  
+Made with 💻 and ☕ by hamza dine
 🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
 

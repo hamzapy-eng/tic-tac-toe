@@ -27,13 +27,6 @@ Tic Tac Toe – Neo Edition is a modern, stylish remake of the classic Tic Tac T
 
 ---
 
-## 🖼️ Preview
-
-*(Optional: add a screenshot here)*  
-> ![Game Screenshot](screenshot.png)
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
@@ -49,9 +42,8 @@ pip install PyQt5
 Clone the repository and launch the game:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-neo.git
-cd tic-tac-toe-neo
-python main.py
+git clone https://github.com/hamzapy-eng/tic-tac-toe
+
 ```
 
 ---
@@ -82,16 +74,9 @@ python main.py
 - Event-driven programming
 - Game logic and UX-focused design
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🌐 Author
 
 Made with 💻 and ☕ by hamza dine
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
 
